@@ -1,1 +1,1 @@
-This repository contains all the important codes implement in Operating System Laboratory for IT 4th Semester Students at NIT Durgapur
+This repository contains all the important codes implemented in Operating System Laboratory for IT 4th Semester Students at NIT Durgapur
